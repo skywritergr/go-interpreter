@@ -1,4 +1,4 @@
-# An interprer for Monkey language in GO
+# An interpreter for Monkey language in GO
 
 This repository is the result of following the book [Writing an interpreter in Go ](https://interpreterbook.com/) by Thorsten Ball. 
 
